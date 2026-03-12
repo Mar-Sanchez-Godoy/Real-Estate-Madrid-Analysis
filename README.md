@@ -28,12 +28,11 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 
 📁 Madrid-Property-Prices-Analysis
 
+├── Images/            # Capturas del dashboard
 ├── dataset.xlsx          # Datos utilizados en el análisis
-
+│── Datos inmobiliarios - Visualizacion.pdf
 ├── datos inmobiliarios.pbix       # Archivo de Power BI
-
-├── imágenes/            # Capturas del dashboard
-
+│── README.md
 
 ---
 
@@ -75,7 +74,6 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 - **dataset.xslx** → Datos utilizados  
 - **Datos inmobiliarios.pbix** → Dashboard final  
 - **imágenes/** → Capturas del informe  
-- **schema.png** → Modelo de datos
 
 ---
 
