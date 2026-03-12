@@ -76,15 +76,25 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 📂 Estructura del repositorio
 
 Código
+
 Real-Estate-Madrid-Analysis/
+
 │── README.md
+
 │── Datos inmobiliarios.pbix
+
 │── Datos inmobiliarios - Visualizacion.pdf
+
 │── Images/
+
 │     ├── pagina1_ranking.png
+
 │     ├── pagina2_heatmap.png
+
 │     ├── pagina3_insights.png
+
 │── Dataset/
+
       ├── Precios historicos Madrid.xlsx
 
 📎 Archivos incluidos
