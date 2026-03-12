@@ -3,9 +3,13 @@
 Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)
+
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-0A66C2)
+
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346)
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Cleaning-34A853)
+
 
 
 📌 Objetivo del proyecto
