@@ -30,7 +30,7 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 
 ├── Images/            # Capturas del dashboard
 
-├── dataset.xlsx          # Datos utilizados en el análisis
+├── dataset/          # Datos utilizados en el análisis
 
 │── Datos inmobiliarios - Visualizacion.pdf
 
