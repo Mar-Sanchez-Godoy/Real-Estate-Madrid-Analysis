@@ -19,10 +19,8 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 
 ## 🛠️ Herramientas utilizadas
 
-- **Power BI** – Visualización  
-- **Google Sheets** – Limpieza ligera y validación  
-- **Locker Studio** – Documentación paso a paso  
-- **CSV** – Dataset base
+- **Power BI** – Visualización, modelado y medidas DAX
+- **XLSX** – Dataset base
 
 ---
 
@@ -30,9 +28,9 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 
 📁 Madrid-Property-Prices-Analysis
 
-├── dataset.csv          # Datos utilizados en el análisis
+├── dataset.xlsx          # Datos utilizados en el análisis
 
-├── dashboard.pbix       # Archivo de Power BI
+├── datos inmobiliarios.pbix       # Archivo de Power BI
 
 ├── imágenes/            # Capturas del dashboard
 
@@ -47,23 +45,21 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 2. **Limpieza y transformación**  
    - Normalización de columnas  
    - Corrección de valores atípicos  
-   - Estandarización de tipos de propiedad  
+   - Estandarización de distritos y fechas
+   - Limpieza de datos
 
-3. **Modelado en Power BI**  (Proximamente)
+3. **Modelado en Power BI** 
    - Relaciones entre tablas  
    - Creación de medidas DAX  
-   - Segmentación por distrito y tipo de inmueble  
+   - Segmentación por distrito
 
-4. **Visualización**  (Proximamente)
-   - Mapa interactivo por distrito  
-   - Distribución de precios  
-   - Relación m² vs precio  
-   - Ranking de zonas más caras y más accesibles  
+4. **Visualización** 
+   - Ranking de zonas 
+   - Mapa de calor por año 
+   - Conclusiones y tendencia
 
 5. **Documentación**  
-   Proceso detallado disponible en Locker:  
-   _[enlace próximamente]_
-
+   Proceso detallado disponible en imagenes.
 ---
 
 ## 📊 Resultados principales
@@ -76,11 +72,10 @@ Comprender la evolución y distribución de los precios de propiedades en Madrid
 
 ## 📎 Archivos incluidos
 
-- **dataset.csv** → Datos utilizados  
-- **dashboard.pbix** → Dashboard final  
+- **dataset.xslx** → Datos utilizados  
+- **Datos inmobiliarios.pbix** → Dashboard final  
 - **imágenes/** → Capturas del informe  
-- **schema.png** → Modelo de datos (si aplica)  
-- **queries.sql** → Consultas SQL (si se usaron)
+- **schema.png** → Modelo de datos
 
 ---
 
