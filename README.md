@@ -21,6 +21,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 - Patrones de comportamiento por zona
 - Tendencias útiles para compradores, inversores y analistas
 
+
 📸 Vista previa del dashboard
 
 🟦 Página 1 — Ranking de precios por distrito
@@ -38,6 +39,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 <img src="Images/Conclusiones y tendencia.png" width="750">
 </p>
 
+
 🧠 Conclusiones clave
 
 - El distrito con mayor crecimiento acumulado es Salamanca (+3,43%).
@@ -45,6 +47,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 - El mejor año del mercado fue 2018 (+14,81%).
 - El peor año fue 2012 (-9,32%).
 - La tendencia general del mercado es alcista, con un crecimiento medio anual del 1,99%.
+
 
 🔍 Proceso del análisis
 
@@ -73,6 +76,7 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 - Conclusiones automáticas generadas con DAX
 - Tema visual estilo consultora
 
+
 📂 Estructura del repositorio
 
 Código
@@ -97,6 +101,7 @@ Real-Estate-Madrid-Analysis/
 
 │     ├── Precios historicos Madrid.xlsx
 
+
 📎 Archivos incluidos
 
 - Datos inmobiliarios.pbix → Dashboard final
@@ -104,12 +109,14 @@ Real-Estate-Madrid-Analysis/
 - Dataset/ → Datos originales
 - Images/ → Capturas del dashboard
 
+
 📚 Aprendizajes
 
 - Diseño de dashboards con enfoque consultivo
 - Creación de medidas DAX para análisis dinámico
 - Limpieza y normalización de datos reales
 - Documentación clara del proceso analítico
+
 
 📫 Contacto
 
