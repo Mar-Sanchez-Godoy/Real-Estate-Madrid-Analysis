@@ -6,8 +6,6 @@ Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con l
 
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-0A66C2)
 
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717)
-
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Cleaning-34A853)
 
 
