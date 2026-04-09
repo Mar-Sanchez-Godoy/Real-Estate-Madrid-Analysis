@@ -112,6 +112,10 @@ LinkedIn: https://www.linkedin.com/in/mar-sanchez-g/
 Email: marsanchez095@gmail.com
 
 
+
+#Castellano
+
+
 # 🏙️ Analisis de mercado inmobiliario – Madrid (2007–2024)
 
 Análisis del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
