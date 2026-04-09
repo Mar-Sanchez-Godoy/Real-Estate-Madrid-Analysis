@@ -1,4 +1,4 @@
-#🏙️ Real Estate Market Analysis – Madrid (2007–2024)
+# 🏙️ Real Estate Market Analysis – Madrid (2007–2024)
 
 Analysis of the real estate market in Madrid using Google Sheets and Power BI, including data cleaning, modeling, advanced visualization, and business‑oriented insights.
 
