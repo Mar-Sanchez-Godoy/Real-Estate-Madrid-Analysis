@@ -1,4 +1,4 @@
-🏙️ Real Estate Market Analysis – Madrid (2007–2024)
+# 🏙️ Real Estate Market Analysis – Madrid (2007–2024)
 
 Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
 
@@ -10,7 +10,7 @@ Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con l
 
 
 
-📌 Objetivo del proyecto
+## 📌 Objetivo del proyecto
 
 Comprender la evolución del precio por m² en los distritos de Madrid entre 2007 y 2024, identificando:
 
@@ -20,7 +20,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 - Tendencias útiles para compradores, inversores y analistas
 
 
-📸 Vista previa del dashboard
+## 📸 Vista previa del dashboard
 
 🟦 Página 1 — Ranking de precios por distrito
 <p align="center">
@@ -38,7 +38,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 </p>
 
 
-🧠 Conclusiones clave
+## 🧠 Conclusiones clave
 
 - El distrito con mayor crecimiento acumulado es Salamanca (+3,43%).
 - El distrito con peor evolución es Villaverde (-1,0%).
@@ -47,7 +47,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 - La tendencia general del mercado es alcista, con un crecimiento medio anual del 1,99%.
 
 
-🔍 Proceso del análisis
+## 🔍 Proceso del análisis
 
 1. Recolección del dataset
 Datos oficiales del Ayuntamiento de Madrid:
@@ -75,32 +75,24 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 - Tema visual estilo consultora
 
 
-📂 Estructura del repositorio
+## 📂 Estructura del repositorio
 
 Código
 
 Real-Estate-Madrid-Analysis/
 
-│── README.md
+/ dataset
+- Archivos 
 
-│── Datos inmobiliarios.pbix
+/Images
+- Capturas del proceso
 
-│── Datos inmobiliarios - Visualizacion.pdf
-
-│── Images/
-
-│     ├── pagina1_ranking.png
-
-│     ├── pagina2_heatmap.png
-
-│     ├── pagina3_insights.png
-
-│── Dataset/
-
-│     ├── Precios historicos Madrid.xlsx
+  
+ README.md
 
 
-📎 Archivos incluidos
+
+## 📎 Archivos incluidos
 
 - Datos inmobiliarios.pbix → Dashboard final
 - Datos inmobiliarios - Visualizacion.pdf → Informe exportado
@@ -108,7 +100,7 @@ Real-Estate-Madrid-Analysis/
 - Images/ → Capturas del dashboard
 
 
-📚 Aprendizajes
+## 📚 Aprendizajes
 
 - Diseño de dashboards con enfoque consultivo
 - Creación de medidas DAX para análisis dinámico
