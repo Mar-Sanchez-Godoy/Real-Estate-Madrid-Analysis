@@ -1,6 +1,6 @@
-# 🏙️ Real Estate Market Analysis – Madrid (2007–2024)
+# 🏙️ Analisis de mercado inmobiliario – Madrid (2007–2024)
 
-Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
+Análisis del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)
 
@@ -12,7 +12,7 @@ Análisis completo del mercado inmobiliario en Madrid utilizando Power BI, con l
 
 ## 📌 Objetivo del proyecto
 
-Comprender la evolución del precio por m² en los distritos de Madrid entre 2007 y 2024, identificando:
+Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando:
 
 - Variación anual del mercado
 - Distritos con mayor y menor crecimiento
@@ -20,7 +20,7 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 - Tendencias útiles para compradores, inversores y analistas
 
 
-## 📸 Vista previa del dashboard
+## 📸 Vista previa del Panel de visualización
 
 🟦 Página 1 — Ranking de precios por distrito
 <p align="center">
@@ -49,11 +49,11 @@ Comprender la evolución del precio por m² en los distritos de Madrid entre 200
 
 ## 🔍 Proceso del análisis
 
-1. Recolección del dataset
+1. Recolección del dataset CSV
 Datos oficiales del Ayuntamiento de Madrid:
 https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0504030000152
 
-2. Limpieza y transformación
+2. Limpieza y transformación en Google Sheets y Power Query
 
 - Normalización de columnas
 - Corrección de valores atípicos
@@ -77,17 +77,25 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 
 ## 📂 Estructura del repositorio
 
-Código
-
-Real-Estate-Madrid-Analysis/
-
-/ dataset
-- Archivos 
+Código: Real-Estate-Madrid-Analysis/
 
 /Images
-- Capturas del proceso
+ Capturas del proceso:
+- Conclusiones y tendencia.png
+- Heatmap.png
+- Modelo de estrella.png
+- Plantilla de precios de Madrid en bruto.png
+- Ranking por distritos.png
+- Tabla transformada.png
+- Tablas.png
 
-  
+/ dataset
+ Archivos utilizados
+- Datos inmobiliarios - Visualizacion.pdf
+- Datos inmobiliarios.pbix
+- Precios historicos Madrid - Ayuntamiento.xlsx
+
+
  README.md
 
 
