@@ -108,6 +108,7 @@ README.md
 
 
 📫 Contact
+
 LinkedIn: https://www.linkedin.com/in/mar-sanchez-g/  
 Email: marsanchez095@gmail.com
 
