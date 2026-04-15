@@ -33,7 +33,7 @@ Understand the evolution of the price per square meter (m²) across Madrid’s d
 
 🟦 Page 3 — Key Insights + YoY Variation
 <p align="center">
-<img src="Images/Visualizacion_Conclusiones y tendencia" width="750">
+<img src="Images/Visualizacion_Conclusiones y tendencia.png" width="750">
 </p>
 
 ## Key Insights
