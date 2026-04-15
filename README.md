@@ -23,17 +23,17 @@ Understand the evolution of the price per square meter (m²) across Madrid’s d
 
 🟦 Page 1 — District Price Ranking
 <p align="center">
-<img src="Images/Ranking por distritos.png" width="750">
+<img src="Images/Visualizacion_Ranking por distritos.png" width="750">
 </p>
 
 🟦 Page 2 — Heatmap by District and Year
 <p align="center">
-<img src="Images/Heatmap.png" width="750">
+<img src="Images/Visualizacion_Heatmap.png" width="750">
 </p>
 
 🟦 Page 3 — Key Insights + YoY Variation
 <p align="center">
-<img src="Images/Conclusiones y tendencia.png" width="750">
+<img src="Images/Visualizacion_Conclusiones y tendencia" width="750">
 </p>
 
 ## Key Insights
