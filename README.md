@@ -143,17 +143,17 @@ Comprender la evolución del precio por metro cuadrado (m²) en los distritos de
 
 🟦 Página 1 — Ranking de precios por distrito
 <p align="center">
-<img src="Images/Ranking por distritos.png" width="750">
+<img src="Images/Visualizacion_Ranking por distritos.png" width="750">
 </p>
 
 🟦 Página 2 — Mapa de calor por distrito y año
 <p align="center">
-<img src="Images/Heatmap.png" width="750">
+<img src="Images/Visualizacion_Heatmap.png" width="750">
 </p>
 
 🟦 Página 3 — Conclusiones clave + Variación YoY
 <p align="center">
-<img src="Images/Conclusiones y tendencia.png" width="750">
+<img src="Images/Visualizacion_Conclusiones y tendencia" width="750">
 </p>
 
 
