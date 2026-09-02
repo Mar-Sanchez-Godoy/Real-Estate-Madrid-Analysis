@@ -107,7 +107,7 @@ README.md
 
  -
 
-### Conclusions
+## Conclusions
 
 ### Why Are Prices Increasing?
 
